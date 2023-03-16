@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **(https://www.linkedin.com/in/gokulc200/)**
+- 📫 How to reach me **https://www.linkedin.com/in/gokulc200/**
 
 - ⚡ Fun fact **I would love to see a movie about Multiverse.**
 
